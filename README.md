@@ -1,1 +1,1 @@
-# Heart-Disease-Classifier-using-traditional-Machine-Learning-Models
+# Heart-Disease-Classifier-using-ML
